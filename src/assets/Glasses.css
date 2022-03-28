@@ -1,0 +1,26 @@
+.bgGlasses{
+    background-image: url(../../public/img/glassesImage/background.jpg);
+    background-size: 2000px;
+    min-height:1500px;
+}
+.mantle{
+    background:rgba(0,0,0,0.8);
+    min-height:1500px;
+}
+.mantle h3{
+    background:rgba(0,0,0,0.3);
+}
+.glasses{
+    width:150px;
+    top:77px;
+    right:70px;
+    opacity: 0.8;
+}
+.infoGlasses{
+    width:250px;
+    top:200px;
+    left:270px;
+    background-color: rgba(167, 52, 147, 0.5);
+    text-align: left;
+    height:105px;
+}
